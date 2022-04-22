@@ -1,0 +1,2 @@
+rootProject.name = "ListOfNames"
+include ':app'
